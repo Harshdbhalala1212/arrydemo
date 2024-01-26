@@ -4,8 +4,8 @@
  */
 package javaapplication2;
 
-/** hello here is commants
- *
+/** hello here 
+/** this comm is added for fun
  * @author harsh
  */
 public class JavaApplication2 {
